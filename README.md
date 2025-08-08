@@ -1,7 +1,3 @@
-Got it — here’s your **Hilink README** updated with a **Credits section** and a **fancier preview layout** so it looks like a polished GitHub project.
-
----
-
 # 🌍 Hilink - Modern UI Website
 
 Hilink is a **modern, responsive UI website** built with **Next.js** and **Tailwind CSS**, inspired by the **JavaScript Mastery** tutorial.
@@ -68,18 +64,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## 📸 Preview
-
-### 💻 Desktop View
-
-![Desktop Preview](public/preview-desktop.png)
-
-### 📱 Mobile View
-
-![Mobile Preview](public/preview-mobile.png)
 
 ---
 
