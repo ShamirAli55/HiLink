@@ -67,10 +67,10 @@ export const FOOTER_LINKS = [
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: 'Contact Us',
+  title: 'Contact',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    { label: 'Github', value: 'ShamirAli55' },
+    { label: 'Email', value: 'shamirali9779@gmail.com' },
   ],
 };
 
